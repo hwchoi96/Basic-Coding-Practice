@@ -71,10 +71,32 @@
   - 요구사항 논의 및 풀이 방법 도식화 설명
   - 문제 실습
   - [비디오](https://www.youtube.com/watch?v=7sks7MKNasM)
-### ?? 연결리스트 기반 큐, 스택
-  - 업로드 예정
-### ?? 이진탐색트리
-  - 업로드 예정
+### 12. 연결리스트 기반 스택 1
+  - 배열 기반 스택의 간단 정리
+  - 배열 기반 스택과 연결리스트 기반 스택의 차이점
+  - 연결리스트 기반 스택 기능에 따른 코드 설명
+  - [비디오](https://www.youtube.com/watch?v=UDvhPu2YB1E&list=PLwtFpELcC1ajEUCvDx78aEhRlx43Vmpev&index=15)
+### 13. 연결리스트 기반 스택 2
+  - 연결리스트 기반 스택 구현 실습
+  - [비디오](https://www.youtube.com/watch?v=gjonvmaou_k&list=PLwtFpELcC1ajEUCvDx78aEhRlx43Vmpev&index=16)
+### 14. 연결리스트 기반 큐
+  - 원형 배열 기반 큐 간단 정리
+  - 원형 배열 기반 큐와 연결리스트 기반 큐의 차이점
+  - 연결리스튼 기반 큐 코딩테스트 문제를 통한 각 기능 코드 설명
+  - [비디오](https://www.youtube.com/watch?v=i57edCeegBU&list=PLwtFpELcC1ajEUCvDx78aEhRlx43Vmpev&index=17)
+### 15. 이진탐색트리 1
+  - 트리의 정의, 트리의 사용 예, 트리의 구조
+  - 이진탐색트리의 정의 및 특징
+  - [비디오](https://www.youtube.com/watch?v=C75RMvgvOfY&list=PLwtFpELcC1ajEUCvDx78aEhRlx43Vmpev&index=18)
+### 16. 이진탐색트리 2
+  - 탐색에서의 배열과 이진탐색트리의 효율성 비교
+  - 이진탐색트리의 단점
+  - 재귀함수로 구현한 이진탐색트리 전위, 중위, 후위순회 알고리즘
+  - 이진탐색트리 각 기능에 따른 요구사항 정의 및 코드 설명
+  - [비디오](https://www.youtube.com/watch?v=OBsWFW2rBm8&list=PLwtFpELcC1ajEUCvDx78aEhRlx43Vmpev&index=19)
+### 17. 이진탐색트리 3
+  - 이진탐색트리 구현 실습
+  - [비디오](https://www.youtube.com/watch?v=Fo4bGIacic4&list=PLwtFpELcC1ajEUCvDx78aEhRlx43Vmpev&index=20)
 ### 15. 이진탐색트리 기반 도서 검색 프로그램 구현 1
   - 공공데이터 접근 및 특징 분석
   - (파이썬을 이용한) 하드코딩 형태로 데이터 전처리
