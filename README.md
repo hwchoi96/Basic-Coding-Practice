@@ -1,9 +1,9 @@
 # Basic-Coding-Practice
 학생의 입장에서 바라본 프로그래밍 기초 (자료구조, 운영체제)
 
-자료구조 기초
+자료구조 기초 (Data structure)
 -------------
-### 1. string.h 라이브러리 함수 사용자 정의 실습 및 구조체
+### 1. string.h 라이브러리 함수 사용자 정의 실습 및 구조체 (Practice of customization of functions of string.h library and structure)
   - strlen() 구현
   - strcpy() 구현
   - strcat() 구현
@@ -11,7 +11,7 @@
   - 구조체와 배열의 차이점 (그림과 메모리 상에서의 차이)
   - 배열 기반 구조체와 포인터 기반 구조체
   - [비디오](https://www.youtube.com/watch?v=hvj_PYDRu48)
-### 2. 구조체, 포인터, 문자열
+### 2. 구조체, 포인터, 문자열 (Structure, pointer and string)
   - 일반 구조체, 포인터 구조체, 구조체 축약 (자료형 재정의: typedef)
   - 포인터 개념 및 실생활 예, 포인터 기본 사용법, 일반 변수와의 차이
   - 포인터의 특징 및 장점: call by value, call by address
@@ -19,18 +19,18 @@
   - 문자열의 특징
   - 정적 기억 할당 방식의 문자열과 동적 기억 할당 방식의 문자열
   - [비디오](https://www.youtube.com/watch?v=gk6EaCfXXHU)
-### 3. 배열 기반 스택 1
+### 3. 배열 기반 스택 1 (Stack based on array 1: Theory and tips)
   - 스택의 기본 개념, 기본 동작 방법
   - 스택을 사용하는 예(문서 작성시 ctrl + z, 이전 페이지 기능, 프로그램 스택)
   - 배열 기반 스택 시각화
   - 배열 기반 스택 구현시 고려해야 할 사항
   - 배열 기반 스택 각 기능에 따른 실제 코드 설명과 팁
   - [비디오](https://www.youtube.com/watch?v=VQnI7REjT94)
-### 4. 배열 기반 스택 2
+### 4. 배열 기반 스택 2 (Stack based on array 2: Tips and practice)
   - 배열 기반 스택 각 기능에 따른 실제 코드 설명과 팁
   - 배열 기반 스택 실습
   - [비디오](https://www.youtube.com/watch?v=qUSSX-mSjVU)
-### 5. 배열 기반 큐 1
+### 5. 배열 기반 큐 1 (Queue based on array 1: Theory, tips, linear array queue and circular array queue)
   - 큐의 기본 개념, 기본 동작 방법
   - 큐를 사용하는 예(은행 창구, 운영체제 자유 버퍼 노드 관리, 네트워크 라우터 등)
   - 선형 배열 큐의 특징 및 \0 문자의 정의
@@ -39,87 +39,87 @@
   - 원형 배열 큐 구현시 고려해야할 사항
   - 원형 배열 큐 각 기능에 따른 실제 코드 설명과 팁
   - [비디오](https://www.youtube.com/watch?v=qgeVLyhuOT4)
-### 6. 배열 기반 큐 2
+### 6. 배열 기반 큐 2 (Queue based on array 2: Theory and practice of circualr array queue)
   - 원형 배열 큐의 실제 동작 원리
   - 원형 배열 큐 실습
   - [비디오](https://www.youtube.com/watch?v=nsZvXoSa1pY)
-### 7. 연결리스트 1
+### 7. 연결리스트 1 (Linked list 1: Theory, features, Pros and cons between array and linked list)
   - 단일 연결리스트의 개념, 특징 및 동작원리
   - 연결리스트와 배열의 차이점 및 장단점 분석
   - 연결리스트와 배열의 저장 방식에 따른 메모리 저장 방식의 차이점
   - 단일 연결리스트의 구조 용어 정리
   - [비디오](https://www.youtube.com/watch?v=wDmnOtMF8rg)
-### 8. 연결리스트 2
+### 8. 연결리스트 2 (Linked list 2: What to consider when implementing it, practice of linear linked list)
   - 단일 연결리스트 구현시 고려해야할 사항
   - 단일 연결리스트 각 기능에 따른 실제 코드 설명과 팁(malloc)
   - [비디오](https://www.youtube.com/watch?v=ovkp4OqAkpU)
-### 9. 연결리스트 3
+### 9. 연결리스트 3 (Linked list 3: Differention of linear and circular linked list and tips)
   - 단일 연결리스트 축약 정리
   - 원형 연결리스트와 단일 연결리스트의 차이점
   - 원형 연결리스트의 장점
   - 원형 연결리스트 각 기능에 따른 도식화 및 실제 코드 설명과 팁(이중 포인터)
   - [비디오](https://www.youtube.com/watch?v=qXdtEBAqXNM)
-### 10. 연결리스트 4
+### 10. 연결리스트 4 (Linked list 4: Double linked list)
   - 원형 연결리스트 각 기능에 따른 실제 코드 설명과 팁
   - 이중 연결리스트와 원형 연결리스트의 차이점
   - 이중 연결리스트의 특징 및 장점
   - 이중 연결리스트 각 기능에 따른 도식화 및 실제 코드 설명
   - 단일, 원형, 이중 연결리스트 특징 총 정리
   - [비디오](https://www.youtube.com/watch?v=Vr9uR8avtII)
-### 11. 연결리스트 5
+### 11. 연결리스트 5 (Linked list 5: Practice of problem solving based on linked list)
   - c언어로 쉽게 풀어쓴 자료구조 p 170 문제 실습
   - 요구사항 논의 및 풀이 방법 도식화 설명
   - 문제 실습
   - [비디오](https://www.youtube.com/watch?v=7sks7MKNasM)
-### 12. 연결리스트 기반 스택 1
+### 12. 연결리스트 기반 스택 1 (Stack based on linked list 1: Theory and tips)
   - 배열 기반 스택의 간단 정리
   - 배열 기반 스택과 연결리스트 기반 스택의 차이점
   - 연결리스트 기반 스택 기능에 따른 코드 설명
   - [비디오](https://www.youtube.com/watch?v=UDvhPu2YB1E&list=PLwtFpELcC1ajEUCvDx78aEhRlx43Vmpev&index=15)
-### 13. 연결리스트 기반 스택 2
+### 13. 연결리스트 기반 스택 2 (Stack based on linked list 2: Practice)
   - 연결리스트 기반 스택 구현 실습
   - [비디오](https://www.youtube.com/watch?v=gjonvmaou_k&list=PLwtFpELcC1ajEUCvDx78aEhRlx43Vmpev&index=16)
-### 14. 연결리스트 기반 큐
+### 14. 연결리스트 기반 큐 (Queue based on linked list: Summary and practice)
   - 원형 배열 기반 큐 간단 정리
   - 원형 배열 기반 큐와 연결리스트 기반 큐의 차이점
   - 연결리스튼 기반 큐 코딩테스트 문제를 통한 각 기능 코드 설명
   - [비디오](https://www.youtube.com/watch?v=i57edCeegBU&list=PLwtFpELcC1ajEUCvDx78aEhRlx43Vmpev&index=17)
-### 15. 이진탐색트리 1
+### 15. 이진탐색트리 1 (Binary search tree 1: Theory and features of tree)
   - 트리의 정의, 트리의 사용 예, 트리의 구조
   - 이진탐색트리의 정의 및 특징
   - [비디오](https://www.youtube.com/watch?v=C75RMvgvOfY&list=PLwtFpELcC1ajEUCvDx78aEhRlx43Vmpev&index=18)
-### 16. 이진탐색트리 2
+### 16. 이진탐색트리 2 (Binary search tree 2: Algorithms of search in binary search tree)
   - 탐색에서의 배열과 이진탐색트리의 효율성 비교
   - 이진탐색트리의 단점
   - 재귀함수로 구현한 이진탐색트리 전위, 중위, 후위순회 알고리즘
   - 이진탐색트리 각 기능에 따른 요구사항 정의 및 코드 설명
   - [비디오](https://www.youtube.com/watch?v=OBsWFW2rBm8&list=PLwtFpELcC1ajEUCvDx78aEhRlx43Vmpev&index=19)
-### 17. 이진탐색트리 3
+### 17. 이진탐색트리 3 (Binary search tree 3: Practice)
   - 이진탐색트리 구현 실습
   - [비디오](https://www.youtube.com/watch?v=Fo4bGIacic4&list=PLwtFpELcC1ajEUCvDx78aEhRlx43Vmpev&index=20)
-### 18. 이진탐색트리 기반 도서 검색 프로그램 구현 1
+### 18. 이진탐색트리 기반 도서 검색 프로그램 구현 1 (Practice on a book search program 1: Preprocessing)
   - 공공데이터 접근 및 특징 분석
   - (파이썬을 이용한) 하드코딩 형태로 데이터 전처리
   - [비디오](https://www.youtube.com/watch?v=ZkbGrGvFa4s)
-### 19. 이진탐색트리 기반 도서 검색 프로그램 구현 2
+### 19. 이진탐색트리 기반 도서 검색 프로그램 구현 2 (Practice on a book search program 2: Implementation and analysis)
   - c언어 기반 실습
   - 연결리스트 기반 이진탐색트리 구현 및 적용
   - 배열 기반 데이터와 이진탐색트리 기반 데이터와 검색 시간 비교(건수가 적어 차이가 없음)
   - [비디오](https://www.youtube.com/watch?v=-KWwtz_ngTs)
-### 20. 코딩테스트 배열 기반 스택 키로거 구현
+### 20. 코딩테스트 배열 기반 스택 키로거 구현 (Keylogger using stack based on array)
   - 코딩테스트 문제 소개, 키로거가 무엇인가? 문제 해결을 위한 세부 분석
   - #progma once의 특징
   - 배열 기반 스택 키로거 구현
   - 각 단계에 따른 세부 동작 흐름 설명
   - 구현을 통한 확인
   - [비디오](https://www.youtube.com/watch?v=dfsO5k0TFc0)
-### 21. 코딩테스트 연결리스트 기반 스택 키로거 구현
+### 21. 코딩테스트 연결리스트 기반 스택 키로거 구현 (Keylogger using stack based on linked list)
   - 이중 연결리스트 기반 문제 해결을 위한 세부 분석
   - 각 단계에 다른 세부 동작 흐름 설명
   - 구현을 통한 확인
   - [비디오](https://www.youtube.com/watch?v=anSUV5dxGYk)
 
-운영체제 기초
+운영체제 기초 (Operating System)
 -------------
 ### 1. 버퍼 기초 1 
   - 버퍼가 필요한 이유?
