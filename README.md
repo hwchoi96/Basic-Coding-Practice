@@ -3,7 +3,7 @@
 
 자료구조 기초 (Data structure)
 -------------
-### 1. string.h 라이브러리 함수 사용자 정의 실습 및 구조체 (Practice of customization of functions of string.h library and structure)
+### 1. string.h 라이브러리 함수 사용자 정의 실습 및 구조체 (Practice of customization of functions in string.h library and structure)
   - strlen() 구현
   - strcpy() 구현
   - strcat() 구현
